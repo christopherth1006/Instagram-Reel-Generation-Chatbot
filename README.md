@@ -1,16 +1,16 @@
 ---
 <p align="center">
-  <sub>Special thanks to</sub>  
+  Instagram Chatbot  
 </p>
 
 <table width="100%">
   <tr>
     <td align="center" valign="top">
-      <a href="https://www.tembo.io/?utm_source=github&utm_medium=readme&utm_campaign=prompt_repo_sponsorship#gh-light-mode-only" target="_blank">
-        <img src="assets/tembo-dark.png#gh-light-mode-only" alt="Tembo Logo" width="750" height="210"/>
+      <a href="" target="_blank">
+        <img src="utils/42820A14-CE61-11F0-B21A-00155DDF83C1.png" alt="Tembo Logo" width="750" height="210"/>
       </a>
-      <a href="https://www.tembo.io/?utm_source=github&utm_medium=readme&utm_campaign=prompt_repo_sponsorship#gh-dark-mode-only" target="_blank">
-        <img src="assets/tembo-light.png#gh-dark-mode-only" alt="Tembo Logo" width="750" height="210"/>
+      <a href="" target="_blank">
+        <img src="utils/4B8862E3-CE61-11F0-B21A-00155DDF83C1.png" alt="Tembo Logo" width="750" height="210"/>
       </a>
       <br><br>
       <strong><a href="https://www.tembo.io/?utm_source=github&utm_medium=readme&utm_campaign=prompt_repo_sponsorship" target="_blank">Put any coding agent to work while you sleep</a></strong>
