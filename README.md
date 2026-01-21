@@ -7,28 +7,12 @@
   <tr>
     <td align="center" valign="top">
       <a href="" target="_blank">
-        <img src="utils/42820A14-CE61-11F0-B21A-00155DDF83C1.png" alt="Tembo Logo" width="750" height="210"/>
+        <img src="utils/42820A14-CE61-11F0-B21A-00155DDF83C1.png" alt="Tembo Logo" width="750" height="360"/>
       </a>
       <a href="" target="_blank">
-        <img src="utils/4B8862E3-CE61-11F0-B21A-00155DDF83C1.png" alt="Tembo Logo" width="750" height="210"/>
+        <img src="utils/4B8862E3-CE61-11F0-B21A-00155DDF83C1.png" alt="Tembo Logo" width="750" height="360"/>
       </a>
       <br><br>
-      <strong><a href="https://www.tembo.io/?utm_source=github&utm_medium=readme&utm_campaign=prompt_repo_sponsorship" target="_blank">Put any coding agent to work while you sleep</a></strong>
-      <br>
-      <a href="https://www.tembo.io/?utm_source=github&utm_medium=readme&utm_campaign=prompt_repo_sponsorship" target="_blank">Tembo – The Background Coding Agents Company</a>
-      <br><br>
-      <a href="https://www.tembo.io/?utm_source=github&utm_medium=readme&utm_campaign=prompt_repo_sponsorship" target="_blank">[Get started for free]</a>
-    </td>
-    <td align="center" valign="top">
-      <a href="https://latitude.so/developers?utm_source=github&utm_medium=readme&utm_campaign=prompt_repo_sponsorship" target="_blank">
-        <img src="assets/Latitude_logo.png" alt="Latitude Logo" width="750" height="210"/>
-      </a>
-      <br><br>
-      <strong><a href="https://latitude.so/developers?utm_source=github&utm_medium=readme&utm_campaign=prompt_repo_sponsorship" target="_blank">Make your LLM predictable in production</a></strong>
-      <br>
-      <a href="https://latitude.so/developers?utm_source=github&utm_medium=readme&utm_campaign=prompt_repo_sponsorship" target="_blank">Open Source AI Engineering Platform</a>
-      <br><br>
-      &nbsp;
     </td>
   </tr>
 </table>
