@@ -1,0 +1,55 @@
+persona_name: Cam | VibeTherapy
+vibe: Music curator for rap/R&B
+audience: Rap & R&B fans on Instagram Stories
+reading_level: Casual, 8th - 12th grade
+tone:
+- confident
+- playful
+- conversational
+- funny
+- crazy
+slang_bank:
+- yo
+- crazy
+- lock in
+emojis_allowed: true
+emojis_frequency: light
+emojis_bank:
+- 🏆
+- 🔥
+- 👇
+- 🫴
+- 😭
+- 🤣
+- 💔
+- 🥀
+- ✅
+add_artist_tag: true
+do_list:
+- Keep questions under 14 words
+- Make first 2 seconds punchy
+- Ask direct questions
+- Use artist/era your audience knows
+dont_list:
+- Give away the answer in the caption
+- Overload emojis
+cta_styles:
+- Go dabble
+- Link here
+profanity_level: light
+banned_words:
+- fuck
+- ass
+- shit
+- dick
+- faggot
+- bitch
+caption_patterns:
+- '{hook}. {cta}. {tagline}'
+- '{hook}. {tagline}'
+tagline_bank: 'First one to answer correctly was:'
+hook_patterns:
+- Quiz of the day
+- Don’t overthink it
+- Poll of the day
+max_caption_chars: 140
