@@ -4,10 +4,11 @@
       <a href="" target="_blank">
         <img src="utils/42820A14-CE61-11F0-B21A-00155DDF83C1.png" alt="Tembo Logo" width="750" height="360"/>
       </a>
+    </td>
+    <td>
       <a href="" target="_blank">
         <img src="utils/4B8862E3-CE61-11F0-B21A-00155DDF83C1.png" alt="Tembo Logo" width="750" height="360"/>
       </a>
-      <br><br>
     </td>
   </tr>
 </table>
