@@ -1,8 +1,3 @@
----
-<p align="center">
-  Instagram Chatbot  
-</p>
-
 <table width="100%">
   <tr>
     <td align="center" valign="top">
